@@ -4,4 +4,4 @@ theme = "ananke"
 #publishDir = "docs"
 
 [params]
-  featured_image = "/Images/iu.jpeg"
+  featured_image = "Images/iu.jpeg"
