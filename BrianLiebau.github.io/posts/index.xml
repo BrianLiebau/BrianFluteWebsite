@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Brian&#39;s Flute Website</title>
+    <link>https://brianliebau.github.io/posts/</link>
+    <description>Recent content in Posts on Brian&#39;s Flute Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 May 2019 10:45:08 -0500</lastBuildDate>
+    
+	<atom:link href="https://brianliebau.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Flute Performance</title>
+      <link>https://brianliebau.github.io/posts/my-first-performance/</link>
+      <pubDate>Mon, 27 May 2019 10:45:08 -0500</pubDate>
+      
+      <guid>https://brianliebau.github.io/posts/my-first-performance/</guid>
+      <description> Date: 2013 Location: Lakeside Lutheran Piece: Composer: Accompanist:  This was my first flute performance ever! I was in 5th grade, studying under Peter Ziegler at the time. I was really nervous for this performance because the room was filled with many people, who likely were waiting for the next performer. In the end I bowed because I didn&amp;rsquo;t know what else to do! </description>
+    </item>
+    
+  </channel>
+</rss>
