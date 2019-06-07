@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brian&#39;s Flute Website</title>
-    <link>https://BrianLiebau.github.io/</link>
+    <link>https://BrianLiebau.github.io/BrianFluteWebsite/</link>
     <description>Recent content on Brian&#39;s Flute Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://BrianLiebau.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://BrianLiebau.github.io/BrianFluteWebsite/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Biography</title>
-      <link>https://BrianLiebau.github.io/biography/</link>
+      <link>https://BrianLiebau.github.io/BrianFluteWebsite/biography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://BrianLiebau.github.io/biography/</guid>
+      <guid>https://BrianLiebau.github.io/BrianFluteWebsite/biography/</guid>
       <description>Brian Liebau is a junior at James Madison Memorial High School. He began playing the flute in fourth grade and also plays piccolo and bass flute. Brian has been studying with Danielle Breisach the past 6 years. This is his third season in Youth Orchestra.
 Brian is a member of his high school Wind Ensemble, and the Madison HS Flute Choir. He has participated in WSMA Honors Ensembles, UW Summer Music Clinic Bands, and UW Whitewater Flute Camp.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://BrianLiebau.github.io/contact/</link>
+      <link>https://BrianLiebau.github.io/BrianFluteWebsite/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://BrianLiebau.github.io/contact/</guid>
+      <guid>https://BrianLiebau.github.io/BrianFluteWebsite/contact/</guid>
       <description>Send Test</description>
     </item>
     
