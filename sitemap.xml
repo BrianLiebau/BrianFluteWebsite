@@ -3,37 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://brianliebau.github.io/</loc>
-    <lastmod>2019-05-27T10:45:08-05:00</lastmod>
+    <loc>https://BrianLiebau.github.io/biography/</loc>
+  </url>
+  
+  <url>
+    <loc>https://BrianLiebau.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brianliebau.github.io/posts/my-first-performance/</loc>
-    <lastmod>2019-05-27T10:45:08-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://brianliebau.github.io/posts/</loc>
-    <lastmod>2019-05-27T10:45:08-05:00</lastmod>
+    <loc>https://BrianLiebau.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brianliebau.github.io/biography/</loc>
+    <loc>https://BrianLiebau.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>https://brianliebau.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://brianliebau.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://brianliebau.github.io/tags/</loc>
+    <loc>https://BrianLiebau.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
