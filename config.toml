@@ -1,0 +1,7 @@
+languageCode = "en-us"
+title = "Brian's Flute Website"
+theme = "ananke"
+publishDir = "docs"
+
+[params]
+  featured_image = "/Images/iu.jpeg"
