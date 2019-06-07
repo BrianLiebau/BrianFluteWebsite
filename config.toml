@@ -1,8 +1,0 @@
-languageCode = "en-us"
-title = "Brian's Flute Website"
-theme = "ananke"
-publishDir = "BrianLiebau.github.io"
-baseURL = "https://brianliebau.github.io/"
-
-[params]
-  featured_image = "/Images/iu.jpeg"
